@@ -1,2 +1,2 @@
 # thequartetpolo
-Quartet Polo Team site 
+Website for the Quartet Polo Team site 
